@@ -15,10 +15,10 @@ function ExperienceSection() {
         </p>
 
         <div className="empresa">
-          <span className="empresa-ano">2023 - 2024</span>
-          <h3 className="empresa-titulo">Yellow Leaf</h3>
+          <span className="empresa-ano">2024 - 2025</span>
+          <h3 className="empresa-titulo">Autônomo</h3>
           <span className="empresa-titulo">Desenvolvedor de Machine Learning</span>
-          <p className="empresa-texto">Integração de APIs para desenvolvimento de funcionalidades baseadas em Inteligência Artificial, como assistentes virtuais e automação de processos aumentando a efetividade para toda a equipe.
+          <p className="empresa-texto">Integração para desenvolvimento de funcionalidades baseadas em Inteligência Artificial, como assistentes virtuais e automação de processos aumentando a efetividade para toda a equipe.
           </p>
           <ul className="empresa-habilidades">
             <li>Python</li>
