@@ -5,12 +5,13 @@ function ExperienceSection() {
     <section className="experiencia" id="experiencia" aria-label="Experiência">
       <h2 className="subtitulo">EXPERIÊNCIA</h2>
       <div>
-        <p className="experiencia-texto">Desenvolvo projetos back-end e front-end utilizando <strong>React</strong>,
-          <strong>Java</strong> e <strong>Python</strong> como stacks principais. Possuo conhecimento também na API da
-          <strong>OpenAI</strong> onde participo do conceito e desenvolvimento de aplicações supervisionadas por IA como o
-          VetGPT. No projeto VetGPT também trabalhei ativamente no <strong>UI/UX Design</strong> e
-          <strong>Front-End</strong> do
-          projeto.
+        <p className="experiencia-texto">Desenvolvo soluções <strong>fullstack</strong> utilizando <strong>Python</strong>,
+          <strong>Java</strong> e <strong>React</strong>, com foco na criação de <strong>agentes verticais</strong> e aplicações
+          de <strong>Machine Learning</strong>. Tenho experiência com a API da <strong>OpenAI</strong> e o
+          <strong>Hugging Face</strong>, participando do conceito, desenvolvimento e aprimoramento de aplicações
+          inteligentes, como o VetGPT. Além do desenvolvimento <strong>back-end</strong> e da implementação de modelos
+          supervisionados por IA, também atuo no <strong>UI/UX Design</strong> e no <strong>Front-End</strong>, garantindo
+          interfaces intuitivas e funcionais.
         </p>
 
         <div className="empresa">
