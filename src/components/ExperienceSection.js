@@ -14,27 +14,26 @@ function ExperienceSection() {
         </p>
 
         <div className="empresa">
-          <span className="empresa-ano">2023 - Atual</span>
+          <span className="empresa-ano">2023 - 2024</span>
           <h3 className="empresa-titulo">Yellow Leaf</h3>
-          <span className="empresa-titulo">Desenvolvedor Pleno</span>
-          <p className="empresa-texto">Atuo como desenvolvedor fullstack, UI/UX no desenvolvimento de aplicações web.
+          <span className="empresa-titulo">Desenvolvedor de Machine Learning</span>
+          <p className="empresa-texto">Integração de APIs para desenvolvimento de funcionalidades baseadas em Inteligência Artificial, como assistentes virtuais e automação de processos aumentando a efetividade para toda a equipe.
           </p>
           <ul className="empresa-habilidades">
-            <li>React</li>
             <li>Python</li>
-            <li>API Restful</li>
-            <li>UI Design</li>
-            <li>UX Design</li>
-            <li>Figma</li>
+            <li>Criação de Agentes Verticais</li>
+            <li>LangChain</li>
+            <li>LangGraph</li>
+            <li>Banco de Dados Vetorial</li>
           </ul>
         </div>
 
         <div className="empresa">
           <span className="empresa-ano">2022 - 2024</span>
           <h3 className="empresa-titulo">CENUV - Diretoria de TI</h3>
-          <span className="empresa-titulo">Desenvolvedor de Software Júnior</span>
-          <p className="empresa-texto">Implementação de novas features, análise de código, manutenção de aplicativos e
-            confecção de testes unitários de aplicações SaaS. Acompanhamento de testes integrados.</p>
+          <span className="empresa-titulo">Desenvolvedor FullStack</span>
+          <p className="empresa-texto">Implementação de novas features, análise de código, manutenção de aplicativos SaaS e
+            confecção de testes unitários de aplicações. Acompanhamento de testes integrados.</p>
           <ul className="empresa-habilidades">
             <li>React</li>
             <li>Vue</li>
